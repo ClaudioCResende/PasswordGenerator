@@ -66,14 +66,15 @@ button:hover{
     backdrop-filter: blur(2px);
     display:flex;
     align-items: center;
+    justify-content: center;
     overflow-wrap: break-word;
     border-radius: 20px;
 }
 
 h1{
     display: block;
-    padding:10px;
-    max-width:350px;
+    padding:20px;
+    max-width:310px;
     overflow-wrap: break-word;
 }
 
